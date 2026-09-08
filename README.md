@@ -1,11 +1,10 @@
-<p align="center">
+<i><p align="center">
   <img src="./github-banner.png" alt="Nikhil Kumar GitHub Banner" width="100%">
 </p>
-[![GitHub](https://img.shields.io/badge/GitHub-Nikhilvishwa18-181717?style=for-the-badge&logo=github)](https://github.com/Nikhilvishwa18)
 
 </div>
 
----
+
 <div align="center">
 
 <h2 align="center">
@@ -30,7 +29,7 @@
 
 ---
 
-## ⚡ Tech Stack
+##  ⟡ I'M EXPLORING ⟡
 
 <div align="center">
 
@@ -45,27 +44,18 @@
 
 ---
 
-## 🤖 Featured Project
 
-### 🎙️ Voice Assistant
 
-My personal voice assistant built with **Python**.
+## ⟡ Currently Working on ⟡
 
-Currently working with:
-
-- 🎤 Speech Recognition
-- 🔊 Text-to-Speech
-- 🌐 Web Browser Automation
-- 🐍 Python
-
-**Repository:** [Voice-assistant](https://github.com/Nikhilvishwa18/Voice-assistant)
+  ***Voice Assistant*** — <i>Exploring Python, automation & voice interaction  </i><br>
+**Repository** — [Voice-assistant](https://github.com/Nikhilvishwa18/Voice-assistant)<br>
+  ***DSA Practice*** — <i>Strengthening problem-solving with C </i><br>
+  ***Web Projects*** — <i>Learning by building things from scratch</i>
 
 ---
 
-
----
-
-## 🔥 Contribution Streak
+## ⟡ Contribution Streak ⟡
 
 <div align="center">
 
@@ -75,7 +65,7 @@ Currently working with:
 
 ---
 
-##  Connect With Me
+##  ⟡ Connect With Me ⟡
 
 <div align="center">
 
@@ -89,10 +79,19 @@ Currently working with:
 
 <div align="center">
 
-### Currently
 
-**Learning → Building → Breaking → Fixing → Repeating 🔁**
-
- *Thanks for visiting my profile!*
+`BUILD` → `BREAK` → `DEBUG` → `LEARN` → `LEVEL UP`
 
 </div>
+<div align="center">
+
+<h3><i>Thanks for exploring my corner of the internet.</i> </h3>
+
+<i>The journey is just getting started...</i>
+
+<br></i>
+
+<code>01001000 01000101 01001100 01001100 01001111</code>
+
+</div>
+
