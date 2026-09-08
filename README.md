@@ -2,6 +2,39 @@
   <img src="./github-banner.png" alt="Nikhil Kumar GitHub Banner" width="100%">
 </p>
 
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" width="400">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Python+Developer;C+Programmer;Learning+DSA;Building+My+Own+Voice+Assistant;Learning+by+Building+%F0%9F%9A%80"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nikhilvishwa18&theme=tokyonight&hide_border=true"/>
+
+</div>
+<div align="center">
+
+
+
+<table align="center">
+<tr>
+<td align="center" width="400">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Learning+by+Building;Turning+Ideas+into+Code;Breaking+Things+%7C+Fixing+Things;Always+Leveling+Up" />
+
+</td>
+</tr>
+</table>
+
+</div>
 </div>
 
 
@@ -53,15 +86,9 @@
   ***DSA Practice*** — <i>Strengthening problem-solving with C </i><br>
   ***Web Projects*** — <i>Learning by building things from scratch</i>
 
----
 
-## ⟡ Contribution Streak ⟡
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikhilvishwa18&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -77,6 +104,7 @@
 
 ---
 
+
 <div align="center">
 
 
@@ -87,11 +115,14 @@
 
 <h3><i>Thanks for exploring my corner of the internet.</i> </h3>
 
-<i>The journey is just getting started...</i>
-
 <br></i>
 
 <code>01001000 01000101 01001100 01001100 01001111</code>
+
+</div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nikhilvishwa18&style=for-the-badge&color=grey&label=PROFILE+VIEWS"/>
 
 </div>
 
