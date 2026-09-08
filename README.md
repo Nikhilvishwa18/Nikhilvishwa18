@@ -6,14 +6,27 @@
 </div>
 
 ---
+<div align="center">
 
-## 🧑‍💻 About Me
+<h2 align="center">
+  ⟡ 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 ⟡
+</h2>
 
-- 🌱 Currently learning **Python, C, HTML & Git/GitHub**
-- 🤖 Building my own **Voice Assistant with Python**
-- 🧠 Exploring **AI, automation & software development**
-- 🔨 I learn best by **building real projects**
-- 🎯 Goal: become a better developer every day
+<p align="center">
+  <b>Hey, I'm Nikhil </b>
+  <br>
+  <i> Curious mind • Problem solver • Builder </i>
+</p>
+</div>
+
+<p align="center">
+  <i>I love turning ideas into code, experimenting with new technologies,
+  and figuring out how things work.</i>
+</p>
+
+<p align="center">
+  <i>Learning by building — one project, one bug, and one breakthrough at a time.</i>
+</p>
 
 ---
 
