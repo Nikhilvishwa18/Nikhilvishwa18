@@ -45,22 +45,12 @@
 </h2>
 
 <p align="center">
-  <b>Hey, I'm Nikhil </b>
-  <br>
-  <i> Curious mind • Problem solver • Builder </i>
-</p>
-</div>
+Name: Nikhil kumar<br>
+location:  India (Bihar)<br>
+Pursuing: B.Tech CSE (AI & ML)
 
-<p align="center">
-  <i>I love turning ideas into code, experimenting with new technologies,
-  and figuring out how things work.</i>
-</p>
 
-<p align="center">
-  <i>Learning by building — one project, one bug, and one breakthrough at a time.</i>
-</p>
 
----
 
 ##  ⟡ I'M EXPLORING ⟡
 
@@ -75,8 +65,6 @@
 
 </div>
 
----
-
 
 
 ## ⟡ Currently Working on ⟡
@@ -90,7 +78,7 @@
 
 
 
----
+
 
 ##  ⟡ Connect With Me ⟡
 
