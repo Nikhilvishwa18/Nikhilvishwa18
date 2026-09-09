@@ -17,7 +17,7 @@
 </div>
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikhilvishwa18&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Nikhilvishwa18&theme=tokyonight&hide_border=true"/>
 
 </div>
 <div align="center">
